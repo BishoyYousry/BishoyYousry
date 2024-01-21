@@ -18,7 +18,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/bishoy-yousry/)
+- [LinkedIn](https://www.linkedin.com/in/bishoyyousry/)
 - [GitHub](https://github.com/BishoyYousry)
 
 ## Let's Build Together!
