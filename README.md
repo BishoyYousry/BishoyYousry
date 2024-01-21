@@ -15,18 +15,11 @@
 - **Embedded Platforms:** Tricore, ARM Cortex-M, AVR
 - **General:** QT, Git, Linux, Jira, SW-Testing, Keil, High-Tec.
 
-## Projects
-
-Here are a few embedded projects I've worked on:
-
-- [Project 1](link-to-project1): Brief description of an embedded project.
-- [Project 2](link-to-project2): Another exciting embedded project.
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/bishoy-yousry/)
 - [GitHub](https://github.com/BishoyYousry)
-- [Portfolio Website](https://www.your-portfolio-website.com)
 
 ## Let's Build Together!
 
