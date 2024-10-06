@@ -1,4 +1,4 @@
-# Bishoy Yousry - Embedded Systems Developer
+# Bishoy Yousry - Automotive Embedded Systems Software Developer
 
 👋 Hello, I'm Bishoy Yousry, an enthusiastic Embedded Systems Developer passionate about building innovative solutions.
 
